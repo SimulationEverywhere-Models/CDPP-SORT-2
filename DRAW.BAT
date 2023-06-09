@@ -1,0 +1,1 @@
+..\drawlog -msort.ma -csort -lsort.log -w6 -p2 >output
